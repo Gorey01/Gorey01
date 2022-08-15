@@ -2,7 +2,9 @@
 - 👀 I’m interested in hacking and penitrating testing
 - 🌱 I’m currently learning python and c#
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- By clicking this Link
+- https://github.com/Gorey01
 
 <!---
 Gorey01/Gorey01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
